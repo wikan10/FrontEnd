@@ -17,11 +17,11 @@
             height: 100vh;
         }
 
-        footer{
+/*         footer{
             position: fixed;
             bottom: 0;
             width: 100%;
-        }
+        } */
         .margintop{
             padding-top: 50px;
         }
